@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>ui1.png</file>
+        <file>ui2.png</file>
+        <file>ui3.png</file>
+        <file>favicon.ico</file>
+        <file>dian0.png</file>
+        <file>dian1.png</file>
+        <file>fan0.png</file>
+        <file>fan1.png</file>
+        <file>1.png</file>
+        <file>ui5.png</file>
+    </qresource>
+</RCC>
